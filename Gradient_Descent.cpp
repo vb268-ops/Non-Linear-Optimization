@@ -1,3 +1,5 @@
+// Vaibhav Bisht (MS, Mechanical Engineering, Cornell University)
+
 #include <iostream>
 #include <string>
 #include <math.h>
